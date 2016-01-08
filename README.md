@@ -1,6 +1,8 @@
 # MotionScroll
 Scroll up and down without ever touching your computer
 
+Requires pyautogui
+
 To scroll up, move your hand in the top half of the video input 
 
 To scroll down, move you hand in the lower half of the video input
