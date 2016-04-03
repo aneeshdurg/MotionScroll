@@ -7,8 +7,12 @@ To scroll up, move your hand in the top half of the video input
 
 To scroll down, move you hand in the lower half of the video input
 
-Run the program with the argument -v to view the video input
+Run the program with the argument 
 
-								  -p to print "up" and "down" to the console when scrolling up and down
+	-v to view the video input
 
-								  -a for both
+	-p to print "up" and "down" to the console when scrolling up and down
+
+	-a for both
+	
+![imgur](http://i.imgur.com/2LLyutF.png "MotionScroll")
